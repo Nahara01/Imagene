@@ -1,0 +1,7 @@
+insert into comentario ( mensaje, respondido) values 
+( 'Sed ante. Vivamus tortor. Duis mattis egestas metus. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae, Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.', true),
+( 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.', false),
+( 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', true),
+( 'In congue. Etiam justo. Etiam pretium iaculis justo. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.', true),
+( 'Phasellus in felis. Donec semper sapien a libero. Nam dui. Sed accumsan felis. Ut at dolor quis odio consequat varius.', false);
+ 
