@@ -1,7 +1,0 @@
-insert into personalizable (codigo, tipo, cantidad, dimenciones, respondido) values 
-('4pnAM', 'lampara', 1, 'alto:16 a 20 ancho:16 a 20', false),
-('pdFEX', 'lampara', 6, 'alto:16 a 20 ancho:16 a 20', true),
-('K71B7', 'otro', 2, 'alto:16 a 20 ancho:16 a 20', false),
-('ZpCWK', 'lampara', 1, 'alto:16 a 20 ancho:16 a 20', false),
-('Rexxh', 'llavero', 15, 'alto:16 a 20 ancho:16 a 20', false);
- 
